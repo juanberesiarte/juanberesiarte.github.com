@@ -9,6 +9,6 @@ body {
 }
 
 .trabajo {
-	with: 100% !important;
+	width: 100% !important;
 	height: 70% !important;
 }
