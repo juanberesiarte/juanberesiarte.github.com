@@ -9,6 +9,6 @@ body {
 }
 
 #miTrabajo {
-	with: 100%;
-	height: 70%;
+	with: 100% !important;
+	height: 70% !important;
 }
